@@ -1,0 +1,6 @@
+# Required for music playback
+pygame>=2.0.0
+
+# Music file placeholders (add these files to the project directory):
+# - bg_music.mp3 (background music when app opens)
+# - shake_music.mp3 (music that plays when button is pressed)
